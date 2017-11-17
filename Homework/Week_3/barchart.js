@@ -38,7 +38,7 @@ var months = 	['January', 'February', 'March', 'April',
 /* 
 extract the data from the json file in order to visualize it in the chart
 */
-d3.json("/windspeeds.json", function(data) {
+d3.json("windspeeds.json", function(data) {
 	// define the x and y domains by mapping the data from the json file
 	x.domain(data.map(function(d) {return d.Date;}));
 	y.domain([0, Math.max.apply(Math, data.map(function(d) {return d.Speed;}))]);
