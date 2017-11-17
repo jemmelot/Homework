@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+	<title>
+		Windspeeds in Ijmuiden(2016)
+	</title>
+
+	<style>
+		.bar {
+			fill: #528881;
+		}
+		
+		.bar:hover {
+			fill:lightsteelblue;
+		}
+		
+		.axis text {
+			fill: black;
+			font: 15px sans-serif;
+			text-anchor: middle;
+		}
+		
+		.axis path,
+		.axis line {
+			fill: none;
+			stroke: #000;
+			shape-rendering: crispEdges;
+		}
+
+		div.tooltip {	
+			position: absolute;			
+			text-align: center;			
+			width: 100px;					
+			height: 100px;					
+			font: 10px calibri;		
+			background: lightsteelblue;	
+			pointer-events: none;			
+		}
+	</style>
+	
+	<svg class="chart"></svg>
+	<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="barchart.js"></script>
+</html>
