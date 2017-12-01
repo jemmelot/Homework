@@ -1,0 +1,63 @@
+/* Jesse Emmelot, 11963522 */
+
+/* standard font and size for all text */
+body {
+	font: 12px sans-serif;
+}
+
+/* style attributes for the axis */
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+/* width of the colored lines */
+.line {
+	stroke-width: 1.5px;
+}
+
+/* stylistic attributes for the dropdown button */
+.dropbtn {
+	color: black;
+	padding: 5px;
+	font-size: 12px;
+	border: yes;
+	cursor: pointer;
+}
+
+/* position of the dropdown button */
+.dropdown {
+	position: absolute;
+	left: 50px;
+	bottom: 15px;
+	display: inline-block;
+}
+
+/* stylistic attributes for the link boxes */
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 85px;
+	z-index: 1;
+}
+
+/* stylistic atrributes for the link boxes text */
+.dropdown-content a {
+	color: black;
+	padding: 5px 12px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+}
+
+/* color of the link boxes background */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* display link boxes upwards when dropdown button is hovered over */
+.dropdown:hover .dropdown-content {
+	display: block;
+	bottom: 100%;
+}
