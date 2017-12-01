@@ -53,6 +53,7 @@ var color = d3.scale.ordinal()
 // x-axis properties
 var	xAxis = d3.svg.axis()
 	.scale(x)
+	.tickFormat(d3.format("d"))
 	.orient("bottom");
 	
 // y-axis properties
