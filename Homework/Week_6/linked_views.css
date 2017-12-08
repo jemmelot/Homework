@@ -1,0 +1,61 @@
+/* Jesse Emmelot, 11963522 */
+
+/* standard font and size for all text */
+body {
+  font: 10px sans-serif;
+}
+
+/* default bar color */
+.bar {
+	fill:#ffdd75;
+}
+
+/* bar color when hovered */
+.bar:hover {
+	fill:#fff9e6;
+}
+
+/* style attributes for the axis text */
+.axis text {
+	fill: black;
+	font: 12px sans-serif;
+	text-anchor: middle;
+}
+
+/* style attributes for the axis */
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+/* style attributes for the tooltip */
+.d3-tip {
+	line-height: 1;
+	padding: 10px;
+	background: rgba(0, 0, 0, 0.8);
+	color: #fff;
+	border-radius: 4px;
+	font-size: 12px;
+}
+
+/* style attributes for the tooltip */
+.d3-tip:after {
+	box-sizing: border-box;
+	display: inline;
+	font-size: 10px;
+	width: 100%;
+	line-height: 1;
+	color: rgba(0, 0, 0, 0.8);
+	content: "\25BC";
+	position: absolute;
+	text-align: center;
+}
+
+/* style attributes for the tooltip */
+.d3-tip.n:after {
+	margin: -1px 0 0 0;
+	top: 100%;
+	left: 0;
+}
