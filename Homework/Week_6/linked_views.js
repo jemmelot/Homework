@@ -70,6 +70,29 @@ var urbanRect = chart.append("rect")
 	.style("stroke", "black")
 	.attr("width", 77)
 	.attr("height", 18);
+	
+var title = chart.append("text")
+	.attr("x", width/2)
+	.attr("y", 0)
+	.attr("text-anchor", "middle")
+	.style("font", "25px sans-serif")
+	.text("Global relation between urbanization and GDP");
+	
+var xText = chart.append("text")
+	.attr("x", width - 90)
+	.attr("y", height + 30)	
+	.text("Urbanization");
+	
+var yText = chart.append("text")
+	.attr("transform", "rotate(-90)")
+	.attr("x", -80)
+	.attr("y", -20)
+	.text("GDP");	
+	
+var jesse = chart.append("text")
+	.attr("x", width - 120)
+	.attr("y", 0)
+	.text("Jesse Emmelot, 11963522");	
 
 // add text for within button
 var gdpText = chart.append("text")
@@ -216,6 +239,7 @@ function ready(error, urban, gdp) {
 		d3.selectAll('.dot')
 			.style('fill','#ffdd75')
 			.attr("r", 5);
+		window.scrollTo(0, 0);
 		scatterplot(both, 0);
 	});
 	
@@ -224,6 +248,7 @@ function ready(error, urban, gdp) {
 		d3.selectAll('.dot')
 			.style('fill','#ffdd75')
 			.attr("r", 5);
+		window.scrollTo(0, 0);	
 		scatterplot(both, 1);
 	});
 	
@@ -235,8 +260,8 @@ function ready(error, urban, gdp) {
 	chart.append("g")
 		.attr("class", "x axis")
 		.attr("transform", "translate(0," + height + ")")
-		.call(xAxis);
-		
+		.call(xAxis)
+			
 	// plot y-axis	
 	chart.append("g")
 		.attr("class", "y axis")
