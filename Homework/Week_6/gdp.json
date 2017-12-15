@@ -2,1081 +2,1081 @@
   {
     "country": "Aruba",
     "id": "ABW",
-    "urban": 41.3
+    "gdp": ""
   },
   {
     "country": "Afghanistan",
     "id": "AFG",
-    "urban": 27.13
+    "gdp": 19469022208
   },
   {
     "country": "Angola",
     "id": "AGO",
-    "urban": 44.82
+    "gdp": 89633156470
   },
   {
     "country": "Albania",
     "id": "ALB",
-    "urban": 58.38
+    "gdp": 11926892453
   },
   {
     "country": "Andorra",
     "id": "AND",
-    "urban": 84.61
+    "gdp": ""
   },
   {
     "country": "United Arab Emirates",
     "id": "ARE",
-    "urban": 85.8
+    "gdp": 348743265715
   },
   {
     "country": "Argentina",
     "id": "ARG",
-    "urban": 91.89
+    "gdp": 545866164478
   },
   {
     "country": "Armenia",
     "id": "ARM",
-    "urban": 62.56
+    "gdp": 10547331235
   },
   {
     "country": "American Samoa",
     "id": "ASM",
-    "urban": 87.15
+    "gdp": ""
   },
   {
     "country": "Antigua and Barbuda",
     "id": "ATG",
-    "urban": 23.39
+    "gdp": 1449160185
   },
   {
     "country": "Australia",
     "id": "AUS",
-    "urban": 89.55
+    "gdp": 1204616439828
   },
   {
     "country": "Austria",
     "id": "AUT",
-    "urban": 66.03
+    "gdp": 386427793787
   },
   {
     "country": "Azerbaijan",
     "id": "AZE",
-    "urban": 54.9
+    "gdp": 37847715736
   },
   {
     "country": "Burundi",
     "id": "BDI",
-    "urban": 12.36
+    "gdp": 3007029030
   },
   {
     "country": "Belgium",
     "id": "BEL",
-    "urban": 97.9
+    "gdp": 466365727354
   },
   {
     "country": "Benin",
     "id": "BEN",
-    "urban": 44.4
+    "gdp": 8583031398
   },
   {
     "country": "Burkina Faso",
     "id": "BFA",
-    "urban": 30.69
+    "gdp": 12115155932
   },
   {
     "country": "Bangladesh",
     "id": "BGD",
-    "urban": 35.04
+    "gdp": 221415280326
   },
   {
     "country": "Bulgaria",
     "id": "BGR",
-    "urban": 74.27
+    "gdp": 52395164027
   },
   {
     "country": "Bahrain",
     "id": "BHR",
-    "urban": 88.84
+    "gdp": 31858510638
   },
   {
     "country": "Bahamas",
     "id": "BHS",
-    "urban": 82.95
+    "gdp": 9047000000
   },
   {
     "country": "Bosnia and Herzegovina",
     "id": "BIH",
-    "urban": 39.94
+    "gdp": 16559695719
   },
   {
     "country": "Belarus",
     "id": "BLR",
-    "urban": 77.05
+    "gdp": 47433442293
   },
   {
     "country": "Belize",
     "id": "BLZ",
-    "urban": 43.85
+    "gdp": 1765256400
   },
   {
     "country": "Bermuda",
     "id": "BMU",
-    "urban": 100
+    "gdp": ""
   },
   {
     "country": "Bolivia",
     "id": "BOL",
-    "urban": 68.91
+    "gdp": 33806395514
   },
   {
     "country": "Brazil",
     "id": "BRA",
-    "urban": 85.93
+    "gdp": 1796186586414
   },
   {
     "country": "Barbados",
     "id": "BRB",
-    "urban": 31.42
+    "gdp": 4587550000
   },
   {
     "country": "Brunei Darussalam",
     "id": "BRN",
-    "urban": 77.51
+    "gdp": 11400266877
   },
   {
     "country": "Bhutan",
     "id": "BTN",
-    "urban": 39.38
+    "gdp": 2236933238
   },
   {
     "country": "Botswana",
     "id": "BWA",
-    "urban": 57.71
+    "gdp": 15274861068
   },
   {
     "country": "Central African Republic",
     "id": "CAF",
-    "urban": 40.33
+    "gdp": 1756124677
   },
   {
     "country": "Canada",
     "id": "CAN",
-    "urban": 82.01
+    "gdp": 1529760492201
   },
   {
     "country": "Switzerland",
     "id": "CHE",
-    "urban": 73.99
+    "gdp": 659827235194
   },
   {
     "country": "Channel Islands",
     "id": "CHI",
-    "urban": 31.58
+    "gdp": ""
   },
   {
     "country": "Chile",
     "id": "CHL",
-    "urban": 89.7
+    "gdp": 247027912574
   },
   {
     "country": "China",
     "id": "CHN",
-    "urban": 56.78
+    "gdp": 11199145157649
   },
   {
     "country": "Cote d'Ivoire",
     "id": "CIV",
-    "urban": 54.87
+    "gdp": 36164644633
   },
   {
     "country": "Cameroon",
     "id": "CMR",
-    "urban": 54.94
+    "gdp": 24204448567
   },
   {
     "country": "Congo. Dem. Rep.",
     "id": "COD",
-    "urban": 43.02
+    "gdp": 34998638634
   },
   {
     "country": "Congo. Rep.",
     "id": "COG",
-    "urban": 65.8
+    "gdp": 7833509443
   },
   {
     "country": "Colombia",
     "id": "COL",
-    "urban": 76.71
+    "gdp": 282462548889
   },
   {
     "country": "Comoros",
     "id": "COM",
-    "urban": 28.41
+    "gdp": 616654490
   },
   {
     "country": "Cabo Verde",
     "id": "CPV",
-    "urban": 66.19
+    "gdp": 1617467436
   },
   {
     "country": "Costa Rica",
     "id": "CRI",
-    "urban": 77.68
+    "gdp": 57435507212
   },
   {
     "country": "Cuba",
     "id": "CUB",
-    "urban": 77.18
+    "gdp": ""
   },
   {
     "country": "Curacao",
     "id": "CUW",
-    "urban": 89.24
+    "gdp": ""
   },
   {
     "country": "Cayman Islands",
     "id": "CYM",
-    "urban": 100
+    "gdp": ""
   },
   {
     "country": "Cyprus",
     "id": "CYP",
-    "urban": 66.84
+    "gdp": 19801664168
   },
   {
     "country": "Czech Republic",
     "id": "CZE",
-    "urban": 72.98
+    "gdp": 192924593987
   },
   {
     "country": "Germany",
     "id": "DEU",
-    "urban": 75.51
+    "gdp": 3466756880461
   },
   {
     "country": "Djibouti",
     "id": "DJI",
-    "urban": 77.43
+    "gdp": ""
   },
   {
     "country": "Dominica",
     "id": "DMA",
-    "urban": 69.82
+    "gdp": 525424630
   },
   {
     "country": "Denmark",
     "id": "DNK",
-    "urban": 87.85
+    "gdp": 306142937248
   },
   {
     "country": "Dominican Republic",
     "id": "DOM",
-    "urban": 79.84
+    "gdp": 71583553488
   },
   {
     "country": "Algeria",
     "id": "DZA",
-    "urban": 71.3
+    "gdp": 156079606663
   },
   {
     "country": "Ecuador",
     "id": "ECU",
-    "urban": 63.98
+    "gdp": 97802211000
   },
   {
     "country": "Egypt. Arab Rep.",
     "id": "EGY",
-    "urban": 43.22
+    "gdp": 336296921759
   },
   {
     "country": "Eritrea",
     "id": "ERI",
-    "urban": ""
+    "gdp": ""
   },
   {
     "country": "Spain",
     "id": "ESP",
-    "urban": 79.8
+    "gdp": 1232088185030
   },
   {
     "country": "Estonia",
     "id": "EST",
-    "urban": 67.47
+    "gdp": 23136741984
   },
   {
     "country": "Ethiopia",
     "id": "ETH",
-    "urban": 19.92
+    "gdp": 72374252815
   },
   {
     "country": "Finland",
     "id": "FIN",
-    "urban": 84.36
+    "gdp": 236785046711
   },
   {
     "country": "Fiji",
     "id": "FJI",
-    "urban": 54.1
+    "gdp": 4631626234
   },
   {
     "country": "France",
     "id": "FRA",
-    "urban": 79.75
+    "gdp": 2465453975282
   },
   {
     "country": "Faroe Islands",
     "id": "FRO",
-    "urban": 42.19
+    "gdp": ""
   },
   {
     "country": "Micronesia. Fed. Sts.",
     "id": "FSM",
-    "urban": 22.48
+    "gdp": 322000000
   },
   {
     "country": "Gabon",
     "id": "GAB",
-    "urban": 87.37
+    "gdp": 14213558130
   },
   {
     "country": "United Kingdom",
     "id": "GBR",
-    "urban": 82.84
+    "gdp": 2618885692029
   },
   {
     "country": "Georgia",
     "id": "GEO",
-    "urban": 53.83
+    "gdp": 14332880086
   },
   {
     "country": "Ghana",
     "id": "GHA",
-    "urban": 54.68
+    "gdp": 42689783734
   },
   {
     "country": "Gibraltar",
     "id": "GIB",
-    "urban": 100
+    "gdp": ""
   },
   {
     "country": "Guinea",
     "id": "GIN",
-    "urban": 37.65
+    "gdp": 6298927773
   },
   {
     "country": "Gambia",
     "id": "GMB",
-    "urban": 60.22
+    "gdp": 964599178
   },
   {
     "country": "Guinea-Bissau",
     "id": "GNB",
-    "urban": 50.09
+    "gdp": 1126122708
   },
   {
     "country": "Equatorial Guinea",
     "id": "GNQ",
-    "urban": 40.1
+    "gdp": 10178967206
   },
   {
     "country": "Greece",
     "id": "GRC",
-    "urban": 78.33
+    "gdp": 194558651276
   },
   {
     "country": "Grenada",
     "id": "GRD",
-    "urban": 35.62
+    "gdp": 1016208195
   },
   {
     "country": "Greenland",
     "id": "GRL",
-    "urban": 86.81
+    "gdp": ""
   },
   {
     "country": "Guatemala",
     "id": "GTM",
-    "urban": 52.03
+    "gdp": 68763255964
   },
   {
     "country": "Guam",
     "id": "GUM",
-    "urban": 94.59
+    "gdp": ""
   },
   {
     "country": "Guyana",
     "id": "GUY",
-    "urban": 28.66
+    "gdp": 3446266344
   },
   {
     "country": "Hong Kong SAR. China",
     "id": "HKG",
-    "urban": 100
+    "gdp": 320912235499
   },
   {
     "country": "Honduras",
     "id": "HND",
-    "urban": 55.32
+    "gdp": 21516915353
   },
   {
     "country": "Croatia",
     "id": "HRV",
-    "urban": 59.28
+    "gdp": 50425333970
   },
   {
     "country": "Haiti",
     "id": "HTI",
-    "urban": 59.79
+    "gdp": 8022638722
   },
   {
     "country": "Hungary",
     "id": "HUN",
-    "urban": 71.67
+    "gdp": 124342940194
   },
   {
     "country": "Indonesia",
     "id": "IDN",
-    "urban": 54.47
+    "gdp": 932259177765
   },
   {
     "country": "Isle of Man",
     "id": "IMN",
-    "urban": 52.28
+    "gdp": ""
   },
   {
     "country": "India",
     "id": "IND",
-    "urban": 33.14
+    "gdp": 2263522518124
   },
   {
     "country": "Ireland",
     "id": "IRL",
-    "urban": 63.54
+    "gdp": 294053595686
   },
   {
     "country": "Iran. Islamic Rep.",
     "id": "IRN",
-    "urban": 73.88
+    "gdp": ""
   },
   {
     "country": "Iraq",
     "id": "IRQ",
-    "urban": 69.59
+    "gdp": 171489001692
   },
   {
     "country": "Iceland",
     "id": "ISL",
-    "urban": 94.23
+    "gdp": 20047413006
   },
   {
     "country": "Israel",
     "id": "ISR",
-    "urban": 92.21
+    "gdp": 318743685882
   },
   {
     "country": "Italy",
     "id": "ITA",
-    "urban": 69.12
+    "gdp": 1849970464192
   },
   {
     "country": "Jamaica",
     "id": "JAM",
-    "urban": 55.03
+    "gdp": 14027151473
   },
   {
     "country": "Jordan",
     "id": "JOR",
-    "urban": 83.91
+    "gdp": 38654727746
   },
   {
     "country": "Japan",
     "id": "JPN",
-    "urban": 93.93
+    "gdp": 4939383909875
   },
   {
     "country": "Kazakhstan",
     "id": "KAZ",
-    "urban": 53.23
+    "gdp": 133657084405
   },
   {
     "country": "Kenya",
     "id": "KEN",
-    "urban": 26.06
+    "gdp": 70529014778
   },
   {
     "country": "Kyrgyz Republic",
     "id": "KGZ",
-    "urban": 35.85
+    "gdp": 6551287938
   },
   {
     "country": "Cambodia",
     "id": "KHM",
-    "urban": 20.95
+    "gdp": 20016747754
   },
   {
     "country": "Kiribati",
     "id": "KIR",
-    "urban": 44.45
+    "gdp": 165765016
   },
   {
     "country": "St. Kitts and Nevis",
     "id": "KNA",
-    "urban": 32.15
+    "gdp": 916896556
   },
   {
     "country": "Korea. Rep.",
     "id": "KOR",
-    "urban": 82.59
+    "gdp": 1411245589977
   },
   {
     "country": "Kuwait",
     "id": "KWT",
-    "urban": 98.36
+    "gdp": ""
   },
   {
     "country": "Lao PDR",
     "id": "LAO",
-    "urban": 39.65
+    "gdp": 15903437790
   },
   {
     "country": "Lebanon",
     "id": "LBN",
-    "urban": 87.91
+    "gdp": 47536798648
   },
   {
     "country": "Liberia",
     "id": "LBR",
-    "urban": 50.1
+    "gdp": 2101000000
   },
   {
     "country": "Libya",
     "id": "LBY",
-    "urban": 78.75
+    "gdp": ""
   },
   {
     "country": "St. Lucia",
     "id": "LCA",
-    "urban": 18.54
+    "gdp": 1378627407
   },
   {
     "country": "Liechtenstein",
     "id": "LIE",
-    "urban": 14.28
+    "gdp": ""
   },
   {
     "country": "Sri Lanka",
     "id": "LKA",
-    "urban": 18.41
+    "gdp": 81321876307
   },
   {
     "country": "Lesotho",
     "id": "LSO",
-    "urban": 27.84
+    "gdp": 2199709489
   },
   {
     "country": "Lithuania",
     "id": "LTU",
-    "urban": 66.51
+    "gdp": 42738875963
   },
   {
     "country": "Luxembourg",
     "id": "LUX",
-    "urban": 90.43
+    "gdp": 59947781147
   },
   {
     "country": "Latvia",
     "id": "LVA",
-    "urban": 67.36
+    "gdp": 27677391316
   },
   {
     "country": "Macao SAR. China",
     "id": "MAC",
-    "urban": 100
+    "gdp": 44802641830
   },
   {
     "country": "St. Martin (French part)",
     "id": "MAF",
-    "urban": ""
+    "gdp": ""
   },
   {
     "country": "Morocco",
     "id": "MAR",
-    "urban": 60.69
+    "gdp": 101445004813
   },
   {
     "country": "Monaco",
     "id": "MCO",
-    "urban": 100
+    "gdp": ""
   },
   {
     "country": "Moldova",
     "id": "MDA",
-    "urban": 45.09
+    "gdp": 6749515655
   },
   {
     "country": "Madagascar",
     "id": "MDG",
-    "urban": 35.74
+    "gdp": 9990653078
   },
   {
     "country": "Maldives",
     "id": "MDV",
-    "urban": 46.54
+    "gdp": 3591112751
   },
   {
     "country": "Mexico",
     "id": "MEX",
-    "urban": 79.52
+    "gdp": 1045998068645
   },
   {
     "country": "Marshall Islands",
     "id": "MHL",
-    "urban": 72.94
+    "gdp": 183000000
   },
   {
     "country": "Macedonia. FYR",
     "id": "MKD",
-    "urban": 57.2
+    "gdp": 10899583155
   },
   {
     "country": "Mali",
     "id": "MLI",
-    "urban": 40.68
+    "gdp": 14045098238
   },
   {
     "country": "Malta",
     "id": "MLT",
-    "urban": 95.53
+    "gdp": 10949092472
   },
   {
     "country": "Myanmar",
     "id": "MMR",
-    "urban": 34.65
+    "gdp": 67429590536
   },
   {
     "country": "Montenegro",
     "id": "MNE",
-    "urban": 64.22
+    "gdp": 4173255531
   },
   {
     "country": "Mongolia",
     "id": "MNG",
-    "urban": 72.82
+    "gdp": 11160356498
   },
   {
     "country": "Northern Mariana Islands",
     "id": "MNP",
-    "urban": 89.21
+    "gdp": ""
   },
   {
     "country": "Mozambique",
     "id": "MOZ",
-    "urban": 32.51
+    "gdp": 11014858592
   },
   {
     "country": "Mauritania",
     "id": "MRT",
-    "urban": 60.45
+    "gdp": 4634588338
   },
   {
     "country": "Mauritius",
     "id": "MUS",
-    "urban": 39.55
+    "gdp": 12164207330
   },
   {
     "country": "Malawi",
     "id": "MWI",
-    "urban": 16.45
+    "gdp": 5441852138
   },
   {
     "country": "Malaysia",
     "id": "MYS",
-    "urban": 75.37
+    "gdp": 296359118755
   },
   {
     "country": "Namibia",
     "id": "NAM",
-    "urban": 47.63
+    "gdp": 10267157280
   },
   {
     "country": "New Caledonia",
     "id": "NCL",
-    "urban": 70.74
+    "gdp": ""
   },
   {
     "country": "Niger",
     "id": "NER",
-    "urban": 19.01
+    "gdp": 7508986509
   },
   {
     "country": "Nigeria",
     "id": "NGA",
-    "urban": 48.6
+    "gdp": 405082677660
   },
   {
     "country": "Nicaragua",
     "id": "NIC",
-    "urban": 59.11
+    "gdp": 13230844687
   },
   {
     "country": "Netherlands",
     "id": "NLD",
-    "urban": 91.03
+    "gdp": 770845046232
   },
   {
     "country": "Norway",
     "id": "NOR",
-    "urban": 80.73
+    "gdp": 370556666667
   },
   {
     "country": "Nepal",
     "id": "NPL",
-    "urban": 19
+    "gdp": 21143873417
   },
   {
     "country": "Nauru",
     "id": "NRU",
-    "urban": 100
+    "gdp": 102060130
   },
   {
     "country": "New Zealand",
     "id": "NZL",
-    "urban": 86.32
+    "gdp": 185017316093
   },
   {
     "country": "Oman",
     "id": "OMN",
-    "urban": 78.09
+    "gdp": 66293368010
   },
   {
     "country": "Pakistan",
     "id": "PAK",
-    "urban": 39.22
+    "gdp": 283659980698
   },
   {
     "country": "Panama",
     "id": "PAN",
-    "urban": 66.9
+    "gdp": 55187700000
   },
   {
     "country": "Peru",
     "id": "PER",
-    "urban": 78.92
+    "gdp": 192093512185
   },
   {
     "country": "Philippines",
     "id": "PHL",
-    "urban": 44.29
+    "gdp": 304905406846
   },
   {
     "country": "Palau",
     "id": "PLW",
-    "urban": 87.64
+    "gdp": 293000000
   },
   {
     "country": "Papua New Guinea",
     "id": "PNG",
-    "urban": 13.04
+    "gdp": ""
   },
   {
     "country": "Poland",
     "id": "POL",
-    "urban": 60.53
+    "gdp": 469508680416
   },
   {
     "country": "Puerto Rico",
     "id": "PRI",
-    "urban": 93.57
+    "gdp": ""
   },
   {
     "country": "Korea. Dem. People�s Rep.",
     "id": "PRK",
-    "urban": 61.05
+    "gdp": ""
   },
   {
     "country": "Portugal",
     "id": "PRT",
-    "urban": 64.02
+    "gdp": 204564700289
   },
   {
     "country": "Paraguay",
     "id": "PRY",
-    "urban": 59.92
+    "gdp": 27440632934
   },
   {
     "country": "French Polynesia",
     "id": "PYF",
-    "urban": 55.8
+    "gdp": ""
   },
   {
     "country": "Qatar",
     "id": "QAT",
-    "urban": 99.32
+    "gdp": 152468681319
   },
   {
     "country": "Romania",
     "id": "ROU",
-    "urban": 54.75
+    "gdp": 186690595273
   },
   {
     "country": "Russian Federation",
     "id": "RUS",
-    "urban": 74.1
+    "gdp": 1283162348133
   },
   {
     "country": "Rwanda",
     "id": "RWA",
-    "urban": 29.78
+    "gdp": 8376048905
   },
   {
     "country": "Saudi Arabia",
     "id": "SAU",
-    "urban": 83.33
+    "gdp": 646438380569
   },
   {
     "country": "Sudan",
     "id": "SDN",
-    "urban": 34.01
+    "gdp": 95584380032
   },
   {
     "country": "Senegal",
     "id": "SEN",
-    "urban": 44.07
+    "gdp": 14765462631
   },
   {
     "country": "Singapore",
     "id": "SGP",
-    "urban": 100
+    "gdp": 296965712342
   },
   {
     "country": "Solomon Islands",
     "id": "SLB",
-    "urban": 22.78
+    "gdp": 1202125000
   },
   {
     "country": "Sierra Leone",
     "id": "SLE",
-    "urban": 40.32
+    "gdp": 3668876080
   },
   {
     "country": "El Salvador",
     "id": "SLV",
-    "urban": 67.19
+    "gdp": 26797470000
   },
   {
     "country": "San Marino",
     "id": "SMR",
-    "urban": 94.22
+    "gdp": ""
   },
   {
     "country": "Somalia",
     "id": "SOM",
-    "urban": 40.03
+    "gdp": 6217000000
   },
   {
     "country": "Serbia",
     "id": "SRB",
-    "urban": 55.67
+    "gdp": 37745114708
   },
   {
     "country": "South Sudan",
     "id": "SSD",
-    "urban": 19.03
+    "gdp": ""
   },
   {
     "country": "Sao Tome and Principe",
     "id": "STP",
-    "urban": 65.65
+    "gdp": 351054248
   },
   {
     "country": "Suriname",
     "id": "SUR",
-    "urban": 66.02
+    "gdp": 3620699735
   },
   {
     "country": "Slovak Republic",
     "id": "SVK",
-    "urban": 53.47
+    "gdp": 89551834323
   },
   {
     "country": "Slovenia",
     "id": "SVN",
-    "urban": 49.63
+    "gdp": 43990635176
   },
   {
     "country": "Sweden",
     "id": "SWE",
-    "urban": 85.96
+    "gdp": 510999796582
   },
   {
     "country": "Swaziland",
     "id": "SWZ",
-    "urban": 21.32
+    "gdp": 3727303664
   },
   {
     "country": "Sint Maarten (Dutch part)",
     "id": "SXM",
-    "urban": 100
+    "gdp": ""
   },
   {
     "country": "Seychelles",
     "id": "SYC",
-    "urban": 54.21
+    "gdp": 1427323889
   },
   {
     "country": "Syrian Arab Republic",
     "id": "SYR",
-    "urban": 58.06
+    "gdp": ""
   },
   {
     "country": "Turks and Caicos Islands",
     "id": "TCA",
-    "urban": 92.5
+    "gdp": ""
   },
   {
     "country": "Chad",
     "id": "TCD",
-    "urban": 22.62
+    "gdp": 9600761474
   },
   {
     "country": "Togo",
     "id": "TGO",
-    "urban": 40.46
+    "gdp": 4399995987
   },
   {
     "country": "Thailand",
     "id": "THA",
-    "urban": 51.54
+    "gdp": 406839679302
   },
   {
     "country": "Tajikistan",
     "id": "TJK",
-    "urban": 26.89
+    "gdp": 6951657159
   },
   {
     "country": "Turkmenistan",
     "id": "TKM",
-    "urban": 50.4
+    "gdp": 36179885714
   },
   {
     "country": "Timor-Leste",
     "id": "TLS",
-    "urban": 33.4
+    "gdp": ""
   },
   {
     "country": "Tonga",
     "id": "TON",
-    "urban": 23.8
+    "gdp": 395159629
   },
   {
     "country": "Trinidad and Tobago",
     "id": "TTO",
-    "urban": 8.35
+    "gdp": 20989155540
   },
   {
     "country": "Tunisia",
     "id": "TUN",
-    "urban": 67.05
+    "gdp": 42062549395
   },
   {
     "country": "Turkey",
     "id": "TUR",
-    "urban": 73.89
+    "gdp": 857748989288
   },
   {
     "country": "Tuvalu",
     "id": "TUV",
-    "urban": 60.62
+    "gdp": 34218878
   },
   {
     "country": "Tanzania",
     "id": "TZA",
-    "urban": 32.32
+    "gdp": 47431038892
   },
   {
     "country": "Uganda",
     "id": "UGA",
-    "urban": 16.44
+    "gdp": 25527910091
   },
   {
     "country": "Ukraine",
     "id": "UKR",
-    "urban": 69.92
+    "gdp": 93270479389
   },
   {
     "country": "Uruguay",
     "id": "URY",
-    "urban": 95.46
+    "gdp": 52419720714
   },
   {
     "country": "United States",
     "id": "USA",
-    "urban": 81.79
+    "gdp": 18569100000000
   },
   {
     "country": "Uzbekistan",
     "id": "UZB",
-    "urban": 36.48
+    "gdp": 67220335570
   },
   {
     "country": "St. Vincent and the Grenadines",
     "id": "VCT",
-    "urban": 50.9
+    "gdp": 770796556
   },
   {
     "country": "Venezuela. RB",
     "id": "VEN",
-    "urban": 89.04
+    "gdp": ""
   },
   {
     "country": "British Virgin Islands",
     "id": "VGB",
-    "urban": 46.5
+    "gdp": ""
   },
   {
     "country": "Virgin Islands (U.S.)",
     "id": "VIR",
-    "urban": 95.46
+    "gdp": ""
   },
   {
     "country": "Vietnam",
     "id": "VNM",
-    "urban": 34.24
+    "gdp": 202615893444
   },
   {
     "country": "Vanuatu",
     "id": "VUT",
-    "urban": 26.44
-  },  
+    "gdp": 773502896
+  },
   {
     "country": "Samoa",
     "id": "WSM",
-    "urban": 18.96
+    "gdp": 785916937
   },
   {
     "country": "Kosovo",
     "id": "XKX",
-    "urban": ""
+    "gdp": 6649888889
   },
   {
     "country": "Yemen. Rep.",
     "id": "YEM",
-    "urban": 35.19
+    "gdp": 27317605346
   },
   {
     "country": "South Africa",
     "id": "ZAF",
-    "urban": 65.3
+    "gdp": 294840648284
   },
   {
     "country": "Zambia",
     "id": "ZMB",
-    "urban": 41.38
+    "gdp": 19551093303
   },
   {
     "country": "Zimbabwe",
     "id": "ZWE",
-    "urban": 32.28
+    "gdp": 16289212000
   }
 ]

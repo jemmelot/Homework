@@ -3,30 +3,23 @@
 	<!-- Jesse Emmelot, 11963522 -->
 
 	<head>
+		<meta charset="UTF-8">
 		<title> World Map </title>
+		<style>
+			@import url('linked_views.css');
+		</style>
 	</head>
-	
-	<style>
-		@import url('linked_views.css');
-	</style>
-		
+			
 	<body>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
 		<script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+		
+		<!-- The script below provides map functionality -->
 		<script src="datamaps.world.min.js"></script>
-		<div id="container" style="position: center; width: 100vh; height: 300px;"></div>
-		<div class='world_data'>
-			<div class='row'>
-				<label class='world_data_inline'>
-					<input type="button" name="world_stat" value="urban" onclick='change(this.value)'>
-				</label>
-				<label class='world_data_inline'>
-					<input type="button" name="world_stat" value="density" onclick='change(this.value)'>
-				</label>
-			</div>
-			<svg class="chart"></svg>
-		</div>	
+		
+		<div id="container" style="position: relative; width: 1100px; height: 635px;"></div>
+		<svg class="chart"></svg>
 		<script src="https://d3js.org/d3-queue.v3.min.js"></script>
 		<script src="linked_views.js"></script>
 	</body>

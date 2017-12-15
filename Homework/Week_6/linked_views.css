@@ -2,17 +2,7 @@
 
 /* standard font and size for all text */
 body {
-  font: 10px sans-serif;
-}
-
-/* default bar color */
-.bar {
-	fill:#ffdd75;
-}
-
-/* bar color when hovered */
-.bar:hover {
-	fill:#fff9e6;
+  font: 12px sans-serif;
 }
 
 /* style attributes for the axis text */
