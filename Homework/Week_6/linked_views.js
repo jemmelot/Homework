@@ -70,25 +70,29 @@ var urbanRect = chart.append("rect")
 	.style("stroke", "black")
 	.attr("width", 77)
 	.attr("height", 18);
-	
+
+// page title	
 var title = chart.append("text")
 	.attr("x", width/2)
 	.attr("y", 0)
 	.attr("text-anchor", "middle")
 	.style("font", "25px sans-serif")
 	.text("Global relation between urbanization and GDP");
-	
+
+// x-axis label	
 var xText = chart.append("text")
 	.attr("x", width - 90)
 	.attr("y", height + 30)	
 	.text("Urbanization");
-	
+
+// y-axis label
 var yText = chart.append("text")
 	.attr("transform", "rotate(-90)")
 	.attr("x", -80)
 	.attr("y", -20)
 	.text("GDP");	
-	
+
+// student credentials	
 var jesse = chart.append("text")
 	.attr("x", width - 120)
 	.attr("y", 0)
@@ -114,7 +118,14 @@ var gdpRect = chart.append("rect")
 chart.append("g")
 	.attr("class", "y axis")
 
-chart.call(tip);	
+chart.call(tip);
+
+// when the 'Description' button is pressed, scroll to the bottom of the page
+document.getElementById("infoButton").onclick = function() {myFunction()};
+
+function myFunction() {
+    window.scrollTo(0, 1000);
+}	
 
 // queue both datasets
 d3.queue()
@@ -172,7 +183,7 @@ function ready(error, urban, gdp) {
 				highlighting the dot for that country
 				*/
 				var countryId = geography.id;
-				window.scrollTo(0, 1300);
+				window.scrollTo(0, 640);
 				d3.selectAll('.dot')
 					.style('fill','#ffdd75')
 					.attr("r", 5);

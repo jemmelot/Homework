@@ -14,12 +14,27 @@
 		<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
 		<script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		
 		<!-- The script below provides map functionality -->
 		<script src="datamaps.world.min.js"></script>
 		
+		<!-- Add container for the map -->
 		<div id="container" style="position: relative; width: 1100px; height: 635px;"></div>
+		
+		<!-- Add button that takes user to the page description when clicked -->
+		<button type="button" class="btn btn-info" id="infoButton" style="position: absolute; top: 10px;">Description</button>
+		
+		<!-- Add a chart element -->
 		<svg class="chart"></svg>
+		
+		<!-- Page description -->
+		<p style="position: relative; bottom: -10px"><strong>Description</strong><br>This linked view shows the global relation between urbanization 
+		and GDP of countries to see if there is a global correlation.<br>The map can display either values in a color grade, and is linked to the scatterplot.
+		This scatterplot shows the direct relation between the two values for each country.<br> What is noticable is that there tends to be a positive relation between 
+		the level of urbanization and the GDP per capita of a country.</p>
+		
 		<script src="https://d3js.org/d3-queue.v3.min.js"></script>
 		<script src="linked_views.js"></script>
 	</body>
